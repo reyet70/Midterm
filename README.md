@@ -13,7 +13,7 @@ Open book; you may view previous code, but do not **copy** any of it.
 Additional requirements.
 
 **M3:**  In-class 10/28  
-Use classes:  Ball & Bird.
+Use classes:  Ball & Bird.  
 Further modifications to M2 takehome code.
 
 
